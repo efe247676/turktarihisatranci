@@ -1,6 +1,5 @@
-# Google AdSense — ads.txt
-# AdSense onayından sonra aşağıdaki satırı KENDİ Publisher ID'nizle güncelleyin.
-# Bu dosya reklam gelirinizi korur (yetkisiz satıcıları engeller).
-# Format: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# Google AdSense ads.txt
+# AdSense hesabınızdaki yayıncı kimliğini aşağıdaki pub-XXXXXXXXXXXXXXXX alanına yazın.
+# Örnek format: google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
 
 google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
